@@ -1,0 +1,25 @@
+# NOTE: All files and folders included in this gitignore WILL NOT be effectively ignored,
+# as they are commented out with # to be kept in the remote repository as examples
+# of the necessary folders for creating the .exe file.
+
+# Sensitive data
+# *.csv
+# data/
+
+# venv
+# venv/
+
+# Build files
+# build/
+# dist/
+# *.exe
+
+# Python cache
+# __pycache__/
+
+# IDE
+# .vscode
+
+# OS
+# Thumbs.db
+# .DS_Store
